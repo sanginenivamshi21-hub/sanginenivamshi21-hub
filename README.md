@@ -1,5 +1,5 @@
 <p align="center">
-  <sub>SOFTWARE ENGINEER IN PROGRESS</sub><br/>
+  <sub>SOFTWARE EGINEER IN PROGRESS</sub><br/>
   <br/>
   <samp style="font-size: 2.2em; letter-spacing: -0.02em;"><b>Sangineni Vamshi</b></samp><br/>
   <br/>
